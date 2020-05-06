@@ -7,5 +7,5 @@ Summary:
 Note:
  - This is AI course project.
  - Project aim is to build system in functional paradigm and to use search algorithm in decision making.
- - I developed this project with my colleagus. I wrote "Sistem" script.
+ - I developed this project with my colleagues. I wrote "Sistem" script.
  - Last time modified: 3.12.2017
